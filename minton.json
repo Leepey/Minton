@@ -3,13 +3,13 @@
   "description": "MINTON is a Jetton (TEP-74) fungible token on the TON blockchain. Bold cyan brushstroke M in a swirling circle frame on pure black — a dynamic, modern, and distinctive identity for the next generation of decentralized payments, rewards, and DeFi utilities inside the TON ecosystem.",
   "symbol": "MINTON",
   "decimals": "9",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/minton-assets/main/logo.png",
+  "image": "https://github.com/Leepey/Minton/blob/main/logo.png?raw=true",
   "image_data": "",
   "social_links": [
     "https://t.me/minton_token"
   ],
   "websites": [
-    "https://minton.example.com"
+    "https://minton.pw"
   ],
   "fixed_supply": "1000000000000000000"
 }
